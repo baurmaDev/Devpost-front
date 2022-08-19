@@ -201,7 +201,7 @@ const Game = () => {
           firstNick: nickname,
           secondNick: secondNickname,
           betAmount: amount,
-          url: `https://chessbet.vercel.app/join/${id}`
+          url: `https://devpost-front-three.vercel.app/join/${id}`
         })
         
     }).catch(err => {
