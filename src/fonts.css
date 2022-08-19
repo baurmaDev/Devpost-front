@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(../public/assets/fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: "Josefin";
+    src: url(../public/assets/fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "Open-Sans-ExtraBold";
+    src: url('../public/assets/fonts/OpenSans/OpenSans-ExtraBold.ttf');
+}
+@font-face {
+    font-family: "Open-Sans-Bold";
+    src: url('../public/assets/fonts/OpenSans/OpenSans-Bold.ttf');
+}
+@font-face {
+    font-family: "Open-Sans-Medium";
+    src: url('../public/assets/fonts/OpenSans/OpenSans-Medium.ttf');
+}
+@font-face {
+    font-family: "Open-Sans-Mixed";
+    src: url('../public/assets/fonts/OpenSans/OpenSans-Regular.ttf');
+}
